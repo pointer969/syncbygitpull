@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/pointer969/syncbygitpull#readme",
   "dependencies": {
-    "git-pull-or-clone": "^2.0.0"
+    "git-pull-or-clone": "^2.0.2"
   }
 }
